@@ -1,1 +1,1 @@
-# STKI
+# spam-sms-classifier
